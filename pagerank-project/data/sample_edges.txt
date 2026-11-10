@@ -1,0 +1,19 @@
+# source target  (A links to B, etc.)
+A B
+A C
+B C
+C A
+D C
+E B
+E D
+E F
+F B
+F E
+G B
+G E
+H B
+H E
+I B
+I E
+J E
+K E
